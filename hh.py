@@ -13,3 +13,6 @@ s1 = S()
 print(id(s1))
 s2 = S()
 print(id(s2))
+
+
+print("这是一个测试文件夹")

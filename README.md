@@ -36,5 +36,7 @@ git clone git@github.com:Opithecus/Test_study.git
 
 #想要修改文件夹名称 直接在后面加上要修改的名字
 git clone git@github.com:Opithecus/Test_study.git workname
+
+git clone -b <分支名> <远程仓库名>    //clone指定分支
 ```
 
